@@ -12,8 +12,8 @@ public class DayTime : MonoBehaviour
     private static int[] time = new int[2] { 0, 0 }; //time[0]<-Ore time[1]<-Minuti
     private int tmp = 0;
     private float COST_TIME;
-    private static string[] month = new string[12]{ "Exitium" , "Origo","Hiems","Vigil","Flos","Core","Solaris","Sacris","Aestus","Mundus","Lunaris","Vacuum"};
-    private static string[] dayname = new string[7] { "Sul", "Lun", "Meurzh", "Merc'her", "Yaou", "Gwener", "Sardon"};
+    private static string[] month = new string[12]{ "m1" , "m2","m3","m4","m5","m6","m7","m8","m9","m10","m11","m12"};
+    private static string[] dayname = new string[7] { "d1", "d2", "d3", "d4", "d5", "d6", "d7"};
     private static string[] season = new string[4] { "Autunno", "Inverno", "Primavera", "Estate" };
     Vector3 direction;
 
