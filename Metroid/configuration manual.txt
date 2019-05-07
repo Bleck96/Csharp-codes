@@ -1,0 +1,18 @@
+V1.0
+be sure to use a 1920 x 1080 resolution
+do not delete or rename the ciotola folder.
+create a link to the ciotola folder in the upper left corner (required position)
+replace the wallp.png image with the background image of the current desktop and make sure it has
+1920 x 1080 resolution and call wallp.png
+
+the mbass.txt file can contain values ??0 to 70 which determine the size of the metroid
+the value automatically grows by eating files on the metroid
+ATTENTION: the files eaten by the metroid are not recoverable
+
+to make a metroid file eat, you have to insert it in the ciotola and then hold the pointer
+mouse over the link-folder for at least 3 seconds
+
+it is advisable to insert the folder in the local disk c
+
+to close the application click with the middle mouse button (wheel) on the metroid itself
+
