@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class DayTime : MonoBehaviour
 {
+    //DayTime class for my first unity project. this class manage a virtual calendar and day/night cicle.
+    //Code by Bleck96
     public Light lgt;
     [Header("Minuti necessari a far passsare 12 ore in gioco")]
     public  float duration;
